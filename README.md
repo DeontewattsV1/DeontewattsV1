@@ -11,7 +11,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DeontewattsV1) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-8586-3650) [![IETF Datatracker](https://img.shields.io/badge/IETF%20Datatracker-0672A1?style=flat-square)](https://datatracker.ietf.org/person/Deont%C3%A9%20Watts)
 
-**[Research index](#research--standards-work) · [Profiles](#professional-links) · [All Internet-Drafts](#internet-draft-index) · [Contact](#contact)**
+**[Research index](#research--standards-work) · [Profiles](#professional-links) · [All Internet-Drafts](#internet-draft-index) · [Support](#support-independent-research) · [Contact](#contact)**
 
 </div>
 
@@ -145,8 +145,7 @@ This profile is maintained in **English**. Choose a language below to open a mac
 - **Research identity:** [ORCID 0009-0005-8586-3650](https://orcid.org/0009-0005-8586-3650)
 - **Proposals and standards-related work:** [IETF Datatracker author record](https://datatracker.ietf.org/person/Deont%C3%A9%20Watts)
 
-<details>
-<summary><strong>Optional ways to support independent research</strong></summary>
+## Support independent research
 
 [![Cash App](https://img.shields.io/badge/Cash%20App-00C244?style=flat-square&logo=cashapp&logoColor=white)](https://cash.app/$yippeeyioo) [![Venmo](https://img.shields.io/badge/Venmo-008CFF?style=flat-square&logo=venmo&logoColor=white)](https://venmo.com/u/Goodstuff966)
 
@@ -163,7 +162,6 @@ This profile is maintained in **English**. Choose a language below to open a mac
 
 *External destinations are user-provided. The Tidelift-labeled badge currently links to SonarCloud, and the Polar link is a dashboard URL that may require authentication.*
 
-</details>
 
 ---
 
